@@ -1,0 +1,6 @@
+<aegis>
+    <request>
+        <credential name="Location" />
+        <for path="/opt/com.substanceofcode.twimgo/bin/TwimGo" />
+    </request>
+</aegis>

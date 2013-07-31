@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>twimgo_twimgots_en.qm</file>
+        <file>twimgo_twimgots_fi.qm</file>
+        <file>twimgo_twimgots_it.qm</file>
+        <file>twimgo_twimgots_sv_SE.qm</file>
+        <file>twimgo_twimgots_tr.qm</file>
+        <file>twimgo_twimgots_ru.qm</file>
+        <file>twimgo_twimgots_uk.qm</file>
+    </qresource>
+</RCC>

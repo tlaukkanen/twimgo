@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=3.3.1
+Type=Application
+Terminal=false
+Name=TwimGo
+Exec=invoker --single-instance --type=e /opt/com.substanceofcode.twimgo/bin/TwimGo
+#Exec=/opt/com.substanceofcode.twimgo/bin/TwimGo
+Icon=/usr/share/icons/hicolor/64x64/apps/TwimGo.png
+#Icon=TwimGo
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

@@ -1,0 +1,22 @@
+Name: com.substanceofcode.twimgo 
+Summary: Twitter client  
+Version: 2.8.3
+Release: 1
+Group: Applications/Internet
+License: TBD 
+URL: http://www.substanceofcode.com/ 
+Sources:
+    - "%{name}-%{version}.tar.gz"
+Description:  
+ Twitter client
+
+PkgConfigBR:
+    - QtCore >= 4.7.0
+    - QtGui
+    - QtWebKit
+    - QtOpenGL
+Configure: none
+Builder: qmake 
+Files:
+    - "/usr/share"
+    - "/opt"
